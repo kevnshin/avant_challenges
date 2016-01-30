@@ -10,7 +10,7 @@ To run test, simply run the __mocha__ command in the root project directory.
 `mocha`
 
 ##API Key for Twitter Challenge
-In the 'twitter_challenge' directory, you'll need to create a file called __config.json__ with the following structure.
+In the 'twitter_challenge' directory, you'll need to create a file called __config.json__ with the following structure with your own Twitter API information.
 `{
   "consumer_key": CONSUMER_KEY,
   "consumer_secret": CONSUMER_SECRET,
